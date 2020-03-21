@@ -1,2 +1,2 @@
 # portfolio-array
-This is a Git Hub repository for the NU Coding Bootcamp for Week 21 React Portfolio Homework.
+This is a Git Hub repository for the NU Coding Bootcamp for Week 20 React Portfolio Homework.
